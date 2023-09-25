@@ -1,6 +1,6 @@
 # Chirpuino: Arduino-based Bioacoustic Wakeup & Learning Device
 
-Welcome to Chirpuino, an Arduino-based bioacoustic wakeup and learning device that brings the sounds of nature to your mornings. This project combines the power of Arduino technology with the beauty of bird songs and other wildlife sounds to create a unique and environmentally friendly alarm clock.
+Welcome to Chirpuino, an Arduino-based bioacoustic wakeup and learning device that brings the sounds of nature to your mornings. This project combines the power of Arduino technology with the beauty of bird songs and other wildlife sounds to create a unique wake up experience.
 
 ![Chirpuino Device](link_to_device_image.jpg)
 
